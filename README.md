@@ -1,3 +1,8 @@
-# sensor-pattern-knitout
-This code uses the [Knitout](https://github.com/textiles-lab/knitout) language and compiler, originally developed by the Carnegie Mellon University Textiles Lab. 
+## Acknowledgments
+
+The sensor pattern was designed by Prof. Sonia Roberts (Wesleyan University).  
+Knitout code implementation by Marouan El-Asery.
+
+This code uses the [Knitout](https://github.com/textiles-lab/knitout) format developed by the CMU Textiles Lab.
+
 
